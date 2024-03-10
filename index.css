@@ -1,0 +1,80 @@
+.frame1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #170004;
+}
+.frame1-container1 {
+  gap: var(--dl-space-space-twounits);
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame1-text {
+  color: #F0234A;
+  font-size: 50px;
+  font-family: "Gilroy";
+  padding-left: var(--dl-space-space-twounits);
+}
+.frame1-text1 {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: "GilroyLight";
+}
+.frame1-text2 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-family: "GilroyLight";
+}
+.frame1-text5 {
+  color: rgb(255, 255, 255);
+  font-size: 150px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Gilroy";
+  font-weight: 900;
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+.frame1-text7 {
+  color: #f0234a;
+}
+.frame1-button {
+  color: rgb(255, 255, 255);
+  width: 174px;
+  height: 58px;
+  font-size: 25px;
+  font-family: "Gilroy";
+  border-radius: 16px;
+  background-color: rgb(240, 35, 74);
+}
+.frame1-container2 {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 1052px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+}
+.frame1-button1 {
+  color: rgb(255, 255, 255);
+  font-family: "Gilroy";
+  border-radius: 16px;
+  background-color: rgb(240, 35, 74);
+}
